@@ -2,9 +2,11 @@ Power BI Project
 
 
 Project Overview
+
 This Power BI project involved data cleaning, transformation, modeling, and visualization to derive actionable insights. The dataset was processed using Power Query, and interactive dashboards were created to showcase key trends and patterns.
 
 Activities Carried Out
+
 Data Collection & Cleaning – Removed inconsistencies, handled missing values, and formatted data.
 
 Data Transformation – Used Power Query to structure and optimize datasets for analysis.
